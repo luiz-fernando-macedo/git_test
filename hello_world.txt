@@ -1,1 +1,8 @@
 New file with right name on it.
+
+Test:
+
+Type git push. To be more specific, type git push origin main. Since you are not dealing with another branch (other than main) or a different remote (as mentioned above),
+ you can leave it as git push to save a few keystrokes. NOTE: If at this point you receive a message that says “Support for password authentication was removed on 
+ August 13, 2021. Please use a personal access token instead.”, you have followed the steps incorrectly and cloned with HTTPS, not SSH. Please follow these steps to 
+ change your remote to SSH, then attempt to push to Github.
